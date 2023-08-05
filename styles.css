@@ -1,0 +1,45 @@
+.navbar{
+    height: 80px;  
+    height:100px;
+    background-color: rgb(176, 51, 51)
+
+}
+.paragraph{
+    height:700px;
+    width:1280px;
+    align:left;
+    background-color: brown;
+    font-family: Arial;
+}
+    
+
+button {
+    width:18%;
+    height: 75%;
+    background-color: rgb(82, 49, 113)
+}
+.images{
+    height:250px;
+    width:180px;
+    text-align:center;
+    background-color: black;
+
+}
+p {
+    font-family: Arial;
+}
+html{
+    height: 100%;
+  }
+  body{
+    position: relative;
+    height: 100%;
+   
+  }
+  
+  .watermarked{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq00nuEuzYpMidNX36nhaQhwv7rdm6pR9sIXFDMafPhA&s");
+    position: relative;
+    left: 30px;
+    opacity: 0.5;
+  }
